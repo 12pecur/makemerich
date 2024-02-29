@@ -8,14 +8,10 @@ There is no literal money being traded through the bot. The bot_rich variable is
 # Requirements:
 
 $ pip install yfinance --upgrade --no-cache-dir
-pip install colorama
+$ pip install colorama
 
 # installation: 
 
 clone the repository: https://github.com/12pecur/makemerich.git
 
 git branch -M main
-
-```bash
-$ pip install colorama
-
