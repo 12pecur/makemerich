@@ -15,4 +15,10 @@ pip install colorama
 clone the repository: https://github.com/12pecur/makemerich.git
 
 git branch -M main
-- [Installation](#installation)
+
+## Copy and Paste Example
+
+### Copy this command:
+
+```bash
+$ git clone https://github.com/your-username/your-repository.git
