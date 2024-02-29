@@ -13,4 +13,5 @@ pip install colorama
 installation: 
 
 clone the repository: https://github.com/12pecur/makemerich.git
+
 git branch -M main
