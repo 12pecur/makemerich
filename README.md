@@ -17,3 +17,4 @@ git branch -M main
 ```bash
 $ pip install colorama
 $ pip install yfinance --upgrade --no-cache-dir
+$ pip install -r requirements.txt
