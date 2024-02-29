@@ -7,8 +7,9 @@ There is no literal money being traded through the bot. The bot_rich variable is
 
 # Requirements:
 
-$ pip install yfinance --upgrade --no-cache-dir
+```bash
 $ pip install colorama
+$ pip install yfinance --upgrade --no-cache-dir
 
 # installation: 
 
